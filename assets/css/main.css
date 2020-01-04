@@ -76,8 +76,13 @@ input, select, textarea {
 	appearance: none;
 }
 
+img.avatar {
+		width: 100%;
+		margin-left: 2px;
+}
+
 img.bwouno {
-    width: 100%;
+	width: 40%;
 }
 
 /* Basic */
